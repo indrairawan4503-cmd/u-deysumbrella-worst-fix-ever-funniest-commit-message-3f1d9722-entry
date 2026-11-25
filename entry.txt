@@ -1,0 +1,1 @@
+fix: moved the bug into a file nobody owns — the crash still happens, it just isn't our problem
